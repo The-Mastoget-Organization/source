@@ -128,7 +128,11 @@
     <p>Atleast for now, Mastoget can only retrieve posts from 5 randomly selected servers at a time, this is to avoid overloading this site's servers as every visitor visit means individual request to these Mastodon servers.</p>
     <p class="popup">
     <a href="https://mastodon.social/@mastoget">Mastodon Profile</a><br>
-    <a href="https://github.com/The-Mastoget-Organization/">Github Profile (Source Code and More)</a></p>
+    <a href="https://github.com/The-Mastoget-Organization/">Github Profile</a>
+    <a href="https://github.com/The-Mastoget-Organization/source">Source Code</a>
+    <a href="https://github.com/The-Mastoget-Organization/privacypolicy">Privacy Policy</a>
+    <a href="https://github.com/The-Mastoget-Organization/termsofservice">Terms of Service</a>
+    </p>
     <br><br>
     ©The Mastoget Organization. All Rights Reserved.
     <br>
