@@ -19,9 +19,6 @@
     <link rel="canonical" href="https://mastoget.x10.bz/" />
     <title>Mastoget - Your Feed Retriever for the Mastodon network</title>
 
-    <!-- OpenMoji CSS via CDN -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/openmoji@15.0/openmoji.css">
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -323,8 +320,6 @@ foreach ($randomIndexes as $index) {
     }
     ?>
 
-    <!-- OpenMoji JavaScript via CDN -->
-    <script defer src="https://cdn.jsdelivr.net/npm/openmoji@15.0/openmoji.min.js"></script>
 </body>
 
 </html>
