@@ -74,7 +74,7 @@ do {
         exit; // Exit the script after redirect header
     } else {
         // Redirect to the original location
-        header("Refresh: 0; URL=$url"); // Redirect after 5 seconds
+        echo ("Systems Fail"); 
         exit; // Exit the script after redirect header
     }
 
