@@ -62,6 +62,6 @@ do {
 } while ($currentAttempt < $maxAttempts);
 
 // If we reach here, all attempts failed
-echo("Systems Fail");
+echo ("Systems Fail");
 exit;
 ?>
