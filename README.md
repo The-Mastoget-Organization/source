@@ -1,4 +1,11 @@
-### Announcement: The shutdown process of the "The Mastodon Organization" and transfer of operations as "Mastofetch" has been delayed due to a recent incident with Github that affects Vercel which can be tracked on https://www.githubstatus.com/incidents/d0nm3xcdc5jw. Once, the incident on Github has been fixed, the migration will push through.
+### Notice
+"The Mastoget Organization" officially shuted down on May 26, 2025 and transferred its operations as "Mastofetch" of TheDoggyBrad Software Labs. Existing endpoints shall automatically redirect you to Mastofetch without any hassle. 
+<br>
+Mastofetch: https://mastofetch.vercel.app
+<br>
+Repository: https://github.com/thedoggybrad/mastofetch
+<br><br>
+Thank you for your support for The Mastoget Organization and Mastoget.
 
 [Go Back to Mastoget](https://mastoget.x10.bz)  
 
