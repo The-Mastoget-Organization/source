@@ -1,5 +1,5 @@
 ### Notice
-"The Mastoget Organization" officially shuted down on May 26, 2025 and transferred its operations as "Mastofetch" of TheDoggyBrad Software Labs. Existing endpoints shall automatically redirect you to Mastofetch without any hassle. 
+"The Mastoget Organization" officially shutted down on May 26, 2025 and transferred its operations as "Mastofetch" of TheDoggyBrad Software Labs. Existing endpoints shall automatically redirect you to Mastofetch without any hassle. 
 <br>
 Mastofetch: https://mastofetch.vercel.app
 <br>
