@@ -1,3 +1,4 @@
+### Announcement: The shutdown process of the "The Mastodon Organization" and transfer of operations as "Mastofetch" has begun. It will be soon that alll endpoints of Mastoget will redirect to Mastofetch.
 [Go Back to Mastoget](https://mastoget.x10.bz)  
 
 # Mastoget (Source Code)
